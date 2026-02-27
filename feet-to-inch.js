@@ -5,3 +5,4 @@ function inchToFeet (inch){
 
 const myHeight = inchToFeet(71);
 console.log(myHeight);
+
